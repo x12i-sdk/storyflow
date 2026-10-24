@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/storyflow",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/storyflow",
+  "usageRepository": "https://github.com/x12i-sdk/storyflow",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Compile an authored review workflow into an SVG diagram",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:56:19.032448+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "2070076dd386e41d1bda2772957971507a1369957e2c8dde48548ba58d131f02",
+    "manifestSha256": "58a625f1ae7fd2cf7a6392c9f088be551455b4cdc1e3cf3644a767530d77ab84"
+  },
+  "validationFiles": {
+    "src/index.mjs": "2070076dd386e41d1bda2772957971507a1369957e2c8dde48548ba58d131f02"
+  }
+}

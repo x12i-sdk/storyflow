@@ -1,0 +1,24 @@
+{
+  "name": "storyflow-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/storyflow: compile an authored review workflow into an svg diagram.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/storyflow": "0.2.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/storyflow.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/storyflow"
+}
